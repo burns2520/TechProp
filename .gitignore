@@ -1,0 +1,25 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# Environment variables
+.env
+.env.*
+
+# Next.js
+frontend/.next/
+frontend/node_modules/
+
+# Testing
+.pytest_cache/
+
+# OS
+.DS_Store
+Thumbs.db
